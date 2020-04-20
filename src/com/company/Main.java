@@ -11,6 +11,8 @@ public class Main {
         System.out.println("Hello Oxie5");
         System.out.println("Hello Oxie6");
         System.out.println("Hello Oxie7");
+          System.out.println("Hello Oxie2");
+          System.out.println("Hello Oxie3");
 
     }
 }
